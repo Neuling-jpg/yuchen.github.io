@@ -80,7 +80,8 @@ th,
 tr,
 p,
 a {
-  font-family: Helvetica, 'Lato', Verdana, Helvetica, sans-serif;
+  /* font-family: Helvetica, 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: Tahoma, sans-serif;
   font-size: 14px;
 }
 
