@@ -18,6 +18,7 @@ a {
   font-family: Tahoma, Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 200;
+  font-weight: 300;
 }
 
 strong {
@@ -35,7 +36,7 @@ h2 {
 .papertitle {
   font-family: Tahoma, Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .name {
